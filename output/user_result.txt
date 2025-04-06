@@ -537,7 +537,6 @@ CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
@@ -579,11 +578,11 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 经典电影,https://vod1.ttbfp2.com/20220316/nStdon8E/index.m3u8
 经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
+经典电影,http://124.248.69.76:26781/yy/1356363815
 经典电影,http://61.133.118.228:5001/yy/1356363815
-经典电影,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://tv.zzlag.top:9087/tsfile/live/1057_1.m3u8?key=txiptv
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
-经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
+经典电影,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://61.163.181.78:9901/tsfile/live/1059_1.m3u8
 IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
@@ -662,7 +661,10 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
+炫动卡通,http://huangtong-com.cn:9902/tsfile/live/1033_1.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ms.fxim.net:808/hls/15/index.m3u8
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -670,8 +672,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 河北少儿科教,http://124.239.135.194:11080/live/sekj/index.m3u8
 七龙珠,http://www.douzhicloud.site:35455/huya/11601966
@@ -680,19 +680,21 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 海绵宝宝,http://zzy789.xyz/douyu1.php?id=1569773
 海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
 海绵宝宝,https://live.metshop.top/douyu/3949681
+海绵宝宝,http://124.248.69.76:26781/huya/11352919
 海绵宝宝,http://61.133.118.228:5001/douyu/3949681
+中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 中华小当家,http://zzy789.xyz/bili.php?id=中华一番
 中华小当家,https://live.metshop.top/huya/11342413
-中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879
-经典动漫,http://43.138.0.72:35455/yy/24180320
 经典动漫,http://61.133.118.228:5001/yy/24180320
+蜡笔小新,http://live.nctv.top/KLJHDS/huya.php?id=11352970
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 蜡笔小新,http://zzy789.xyz/bili.php?id=30150311
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,http://zzy789.xyz/douyu1.php?id=5907076
+漫画解说,http://124.248.69.76:26781/douyu/5907076
 漫画解说,http://61.133.118.228:5001/yy/1382735568
 
 NewTV#genre#,#genre#
